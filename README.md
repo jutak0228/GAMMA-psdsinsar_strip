@@ -3,7 +3,9 @@
 This GAMMA RS script is for IPTA analysis for StripMap datasets
 
 ## Requirements
+
 GAMMA Software Modules:
+
 The GAMMA software is grouped into four main modules:
 - Modular SAR Processor (MSP)
 - Interferometry, Differential Interferometry and Geocoding (ISP/DIFF&GEO)
